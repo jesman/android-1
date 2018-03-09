@@ -56,7 +56,9 @@ public class FeatureList {
 
             // Features introduced in certain point in 2.7.0
             new FeatureItem(R.drawable.whats_new_pattern_lock, R.string.welcome_feature_6_title,
-                    R.string.welcome_feature_6_text, "2.7.0", "0", SHOW_ON_FIRST_RUN),
+                    R.string.welcome_feature_6_text, "2.7.0", "0", SHOW_ON_UPGRADE),
+            new FeatureItem(R.drawable.whats_new_fingerprint_lock, R.string.welcome_feature_7_title,
+                    R.string.welcome_feature_7_text, "2.7.0", "0", SHOW_ON_UPGRADE),
     };
 
 
