@@ -59,6 +59,11 @@ public class FeatureList {
                     R.string.welcome_feature_6_text, "2.7.0", "0", SHOW_ON_UPGRADE),
             new FeatureItem(R.drawable.whats_new_fingerprint_lock, R.string.welcome_feature_7_title,
                     R.string.welcome_feature_7_text, "2.7.0", "0", SHOW_ON_UPGRADE),
+            new FeatureItem(R.drawable.whats_new_gif_support, R.string.welcome_feature_8_title,
+                    R.string.welcome_feature_8_text, "2.7.0", "0", SHOW_ON_UPGRADE),
+            new FeatureItem(R.drawable.whats_new_upload_camera_picture, R.string.welcome_feature_9_title,
+                    R.string.welcome_feature_9_text, "2.7.0", "0", SHOW_ON_UPGRADE),
+
     };
 
 
